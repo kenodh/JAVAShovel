@@ -14,5 +14,5 @@ currently being supported with security updates?
 ## Reporting a Vulnerability
 
 how to report a vulnerability?
-report to ICS.
+report to one of JAVA Shovel ver3 discussion..
 
